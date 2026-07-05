@@ -16,7 +16,7 @@ I'm an IT student focused on **automation workflows** and **integrating AI agent
 
 Right now I'm exploring how far agent-based automation can go: from simple trigger-based workflows to agents that can reason, plan, and act across multiple tools.
 
-- 🔭 **Currently working on:** [Scholarship Helper Agent](#) — an automation system that helps students find and apply for scholarships at the undergraduate and master's level
+- 🔭 **Currently working on:** [Scholarship Helper Agent](https://github.com/nhatdevzizi/Scholarship_Helper.git) — an automation system that helps students find and apply for scholarships at the undergraduate and master's level
 - 🌱 **Currently learning:** Practical applications of machine learning
 - 🎯 **Open to:** ML/AI internship opportunities — especially automation & agent-based systems
 - 💬 **Ask me about:** workflow automation, AI agents, LangChain, n8n
@@ -41,15 +41,15 @@ Right now I'm exploring how far agent-based automation can go: from simple trigg
 
 ### 🚀 Featured Project
 
-**[Scholarship Helper Agent](#)**
-An automation system that assists students in discovering and applying for scholarships at the university and master's level — combining workflow automation with an AI agent that handles search, filtering, and application tracking.
+**[Scholarship Helper Agent](https://github.com/nhatdevzizi/Scholarship_Helper.git)**
+An automation system that assists students in discovering and applying for scholarships at the undergraduate and master's level — combining workflow automation with an AI agent that handles search, filtering, and application tracking.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhatdevzizi&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+  <img src="hhttps://github-stats-extended.vercel.app/api?username=nhatdevzizi&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatdevzizi&theme=default" alt="GitHub Streak" height="150"/>
 </p>
 
