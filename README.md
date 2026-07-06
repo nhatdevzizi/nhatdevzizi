@@ -50,7 +50,7 @@ An automation system that assists students in discovering and applying for schol
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=nhatdevzizi&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=nhatdevzizi&theme=dark&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nhatdevzizi&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </p>
 
 ---
